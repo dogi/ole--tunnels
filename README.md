@@ -17,3 +17,4 @@ community|ssh
 [ranomafana](http://pirate.ole.org:24484/apps/_design/bell/MyApp/index.html)|`ssh -p 24422 root@pirate.sh`
 [fianarantsoa](http://pirate.ole.org:24584/apps/_design/bell/MyApp/index.html)|`ssh -p 24522 root@pirate.sh`
 [ifanadiana](http://pirate.ole.org:24684/apps/_design/bell/MyApp/index.html)|`ssh -p 24622 root@pirate.sh`
+[ruboni](http://pirate.ole.org:24784/apps/_design/bell/MyApp/index.html)|`ssh -p 24722 root@pirate.sh`
