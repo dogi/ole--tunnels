@@ -19,3 +19,5 @@ community|ssh
 [ifanadiana](http://pirate.ole.org:24684/apps/_design/bell/MyApp/index.html)|`ssh -p 24622 root@pirate.sh`
 [bugoye](http://pirate.ole.org:24784/apps/_design/bell/MyApp/index.html)|`ssh -p 24722 root@pirate.sh`
 [ruboni](http://pirate.ole.org:24884/apps/_design/bell/MyApp/index.html)|`ssh -p 24822 root@pirate.sh`
+[rrrowe](http://pirate.ole.org:24984/apps/_design/bell/MyApp/index.html)|`ssh -p 24922 root@pirate.sh`
+[ole](http://pirate.ole.org:25084/apps/_design/bell/MyApp/index.html)|`ssh -p 25022 root@pirate.sh`
