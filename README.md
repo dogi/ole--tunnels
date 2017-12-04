@@ -1,3 +1,7 @@
+nation|ssh
+---|---
+[madagascar](http://pirate.ole.org:22984/apps/_design/bell/MyApp/index.html)|`ssh -p 22922 root@pirate.sh`
+
 community|ssh
 ---|---
 [cambridge](http://pirate.ole.org:23084/apps/_design/bell/MyApp/index.html)|`ssh -p 23022 root@pirate.sh`
